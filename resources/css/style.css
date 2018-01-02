@@ -1,0 +1,32 @@
+.header-container {
+font-family: Verdana;
+font-size: 14px;
+font-weight: bold;
+display: flex;
+border-bottom: 1px solid black;
+flex-direction: row;
+justify-content:center;
+align-items: center;
+color: MediumAquamarine;
+height: 80px;
+padding: 0 15;
+margin-bottom: 10px;
+}
+
+.nav-items {
+  justify-content: flex-end;
+  margin-left: 20px;
+}
+
+.img-logo {
+  margin-right: 10px;
+}
+
+.heading {
+  color: MediumAquamarine;
+  width: 950px;
+}
+
+#nav-color {
+  color: black;
+}
